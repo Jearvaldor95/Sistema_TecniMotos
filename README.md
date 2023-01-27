@@ -3,6 +3,7 @@ Sistema de escritorio para la administración de taller de motos, modelo de capa
 
 
 Para la ejecución del sistema
+
 para ingresar como Administrador
 usuario= admin
 contraseña= 123456
